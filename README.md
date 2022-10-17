@@ -3,7 +3,7 @@
 <ins>Gabe Logan Newell</ins> né le 3 novembre 1962, surnommé Gaben, est un businessman américain et le président de l’entreprise de jeux vidéo [Valve](https://fr.wikipedia.org/wiki/Valve_(entreprise)).
 
 # Table of Contents
-1. [Valve](#Valve)
+1. [Valve](#Valve-)
 2. [Gabe Newell](#Gabe Newell)
 
 ## Valve [](#Valve)
