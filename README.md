@@ -29,7 +29,7 @@ On peut y acheter des jeux et communiquer avec ses amis ou d'autre joueurs.
 ### Parcours
 |Etudes|Microsoft|Valve|
 |---|---|---|
-|Harvard|Lead devloper|PDG|
-bandonné|Pendant 13 Ans|Depuis 1996|
+|Harvard|Lead developer|PDG|
+abandonné|Pendant 13 Ans|Depuis 1996|
 
 Il est surnommé `Gaben` en référence à son adresse mail professionnelle.
