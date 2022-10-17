@@ -4,7 +4,7 @@
 
 # Table of Contents
 1. [Valve](#Valve)
-2. [Gabe Newell](#Gabe Newell)
+2. [Gabe Newell](#Gabe-Newell)
 
 ## Valve
 
@@ -20,7 +20,7 @@ Valve est aussi à l'origine de Steam.
 ### Steam
 Steam est une plateforme de distribution digitale de jeux vidéo en ligne comportant un système de communication.
 On peut y acheter des jeux et communiquer avec ses amis ou d'autre joueurs.
-## Gabe Newell [](#){name=Gabe Newell}
+## Gabe Newell
 ![Le Gabe](https://upload.wikimedia.org/wikipedia/commons/2/21/Gabe_Newell_can_haz_WoW%3F_%282472952840%29.jpg "Gaben")
 ### Parcours
 |Etudes|Microsoft|Valve|
