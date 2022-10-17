@@ -4,7 +4,11 @@
 
 # Table of Contents
 1. [Valve](#Valve)
-2. [Gabe Newell](#Gabe-Newell)
+2. [Steam](#Steam)
+3. [Gabe Newell](#Gabe-Newell)
+4. [Parcours](#Parcours)
+
+
 
 ## Valve
 
