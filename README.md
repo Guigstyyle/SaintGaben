@@ -6,7 +6,7 @@
 1. [Valve](#Valve)
 2. [Gabe Newell](#Gabe Newell)
 
-## Valve [](#Valve){name=Valve}
+## Valve [](#Valve)
 
 Inspiré par un autre employé de Microsoft qui a quitté l’entreprise pour fonder la sienne, Newell et un autre employé, [Mike Harrington](https://en.wikipedia.org/wiki/Mike_Harrington), quitte Microsoft pour fonder Valve en 1996. Newell et Harrington ont financé le développement du premier jeu Valve, le [jeu de tir à la première personne](https://en.wikipedia.org/wiki/First-person_shooter) _Half-Life_ en 1998, qui a connu un succès critique et commercial. Harrington a quitté l’entreprise en 2000, laissant Newell en tant que seul propriétaire. 
 
