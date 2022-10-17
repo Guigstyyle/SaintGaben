@@ -21,4 +21,4 @@ On peut y acheter des jeux et communiquer avec ses amis ou d'autre joueurs.
 |Abandonné|Pendant 13 Ans|Depuis 1996|
 
 
-Il est surnommé `Gaben` en reference à son adresse mail professionnelle.
+Il est surnommé `Gaben` en référence à son adresse mail professionnelle.
