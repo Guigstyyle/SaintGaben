@@ -14,11 +14,11 @@ Inspiré par un autre employé de Microsoft qui a quitté l’entreprise pour fo
 
 <details>
 <summary>Valve est à l’origine de nombreux jeux à succès comme: (cliquez pour dérouler)</summary>
-* Half-Life
-* Portal
-* Counter-Strike
-* Left 4 Dead
-* Team Fortress
+  * Half-Life
+  * Portal
+  * Counter-Strike
+  * Left 4 Dead
+  * Team Fortress
 </details>
   
 Valve est aussi à l'origine de Steam.
